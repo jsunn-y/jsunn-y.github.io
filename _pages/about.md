@@ -15,7 +15,7 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a 3rd-year chemical engineering PhD student at Caltech, coadvised by [Professor Frances Arnold](http://fhalab.caltech.edu) and [Professor Yisong Yue](http://www.yisongyue.com). My research interests involve developing machine learning-assisted workflows for protein engineering, and particularly enzymes. I am interning this summer at [Profluent](https://www.profluent.bio).
+I'm a 3rd-year chemical engineering PhD student at Caltech, coadvised by [Professor Frances Arnold](http://fhalab.caltech.edu) and [Professor Yisong Yue](http://www.yisongyue.com). My research interests involve developing machine learning-assisted workflows for protein engineering. In particular, I am interested in discovering and optimizing enzymes for desired functions. I am interning this summer at [Profluent](https://www.profluent.bio).
 
 I completed my BS in chemical engineering and applied math at Yale University. During my undergrad, I worked on membranes for water treatment with [Professor Menachem Elimelech](https://elimelechlab.yale.edu), and molecular simulation and machine learning of polymers with [Professor Ying Li](https://pdelab.engr.wisc.edu). In the past, I have also interned at [Genentech](https://www.gene.com) and [NREL](https://www.nrel.gov).
 
