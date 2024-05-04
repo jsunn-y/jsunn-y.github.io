@@ -22,17 +22,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
   "education": [
     {
       "institution": "California Institute of Technology",
@@ -41,101 +30,78 @@
       "studyType": "PhD",
       "startDate": "2021",
       "endDate": "2026"
+    },
+    {
+      "institution": "Yale University",
+      "location": "New Haven, CT",
+      "area": "Chemical Engineering and Applied Math",
+      "studyType": "BS",
+      "startDate": "2017",
+      "endDate": "2021"
+    },
+    {
+      "institution": "New Trier High School",
+      "location": "Winnetka, IL",
+      "startDate": "2013",
+      "endDate": "2017"
     }
   ],
   "awards": [
     {
       "title": "NSF Graduate Research Fellowship Program",
       "date": "2021",
-      "awarder": "National Science Foundation",
-      "url": "",
-      "summary": "The National Science Foundation's Graduate Research Fellowship Program (GRFP) helps ensure the vitality of the human resource base of science and engineering in the United States and reinforces its diversity. The program recognizes and supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics disciplines who are pursuing research-based master's and doctoral degrees at accredited United States institutions."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Opportunities and Challenges for Machine Learning-Assisted Enzyme Engineering",
-      "publisher": "ACS Central Science",
-      "releaseDate": "2024",
-      "url": "https://doi.org/10.1021/acscentsci.3c01275",
-      "summary": ""
+      "awarder": "National Science Foundation"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "title": "Goldwater Scholarship",
+      "date": "2020",
+      "awarder": "Barry Goldwater Scholarship and Excellence in Education Foundation"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Tau Beta Pi Engineering Honor Society",
+      "date": "2019"
+    },
+    {
+      "title": "NSF Graduate Research Fellowship Program",
+      "date": "2021",
+      "awarder": "National Science Foundation"
+    },
+    {
+      "title": "Regeneron Science Talent Search Top Scholar",
+      "date": "2017"
+    },
+    {
+      "title": "National Merit Scholarship Finalist",
+      "date": "2017"
+    },
+    {
+      "title": "Science Olympiad National Medalist",
+      "date": "2017"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Machine Learning",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "transformers", "graph NNs", "diffusion models", "deep kernels", "contrastive learning", "self-supervision", "VAEs", "GANs", "CNNs", "RNNs"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Mandarin Chinese",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "French",
+      "fluency": "Professional",
+      "icon": ""
     }
   ]
 }
