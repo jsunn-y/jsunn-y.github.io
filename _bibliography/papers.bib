@@ -1,14 +1,33 @@
 ---
 ---
+
+@article{yang_active_2024,
+	title = {Active {Learning}-{Assisted} {Directed} {Evolution}},
+	copyright = {http://creativecommons.org/licenses/by-nc-nd/4.0/},
+	doi = {10.1101/2024.07.27.605457},
+	abstract = {Directed evolution (DE) is a powerful tool to optimize protein fitness for a specific application. However, DE can be inefficient when mutations exhibit non-additive, or epistatic, behavior. Here, we present Active Learning-assisted Directed Evolution (ALDE), an iterative machine learningassisted DE workflow that leverages uncertainty quantification to explore the search space of proteins more efficiently than current DE methods. We apply ALDE to an engineering landscape that is challenging for DE: optimization of five epistatic residues in the active site of an enzyme. In three rounds of wet-lab experimentation, we improve the yield of a desired product of a nonnative cyclopropanation reaction from 12\% to 93\%. We also perform computational simulations on existing protein sequence-fitness datasets to support our argument that ALDE can be more effective than DE. Overall, ALDE is a practical and broadly applicable strategy to unlock improved protein engineering outcomes.},
+	language = {en},
+	urldate = {2024-07-30},
+	author = {Yang, Jason and Lal, Ravi G and Bowden, James C and Astudillo, Raul and Hameedi, Mikhail A and Kaur, Sukhvinder and Hill, Matthew and Yue, Yisong and Arnold, Frances H},
+	month = jul,
+	year = {2024},
+	keywords = {notion},
+	journal = {bioRxiv},
+	html = {https://www.biorxiv.org/content/10.1101/2024.07.27.605457v1?ct=},
+	preview={alde.png},
+	selected={true},
+	file = {Yang et al. - 2024 - Active Learning-Assisted Directed Evolution.pdf:/Users/jason/Zotero/storage/DV59XUGW/Yang et al. - 2024 - Active Learning-Assisted Directed Evolution.pdf:application/pdf},
+}
+
 @article{johnston_combinatorially_nodate,
 	title = {A combinatorially complete epistatic fitness landscape in an enzyme active site},
 	abstract = {Protein engineering often targets binding pockets or active sites which are enriched in epistasis—non-additive interactions between amino acid substitutions—and where the combined effects of multiple single substitutions are difficult to predict. Few existing sequence-fitness datasets capture epistasis at large scale, especially for enzyme catalysis, limiting the development and assessment of model-guided enzyme engineering approaches. We present here a combinatorially complete, 160,000-variant fitness landscape across four residues in the active site of an enzyme. Assaying the native reaction of a thermostable β-subunit of tryptophan synthase (TrpB) in a non-native environment yielded a landscape characterized by significant epistasis and many local optima. These effects prevent simulated directed evolution approaches from efficiently reaching the global optimum. There is nonetheless wide variability in the effectiveness of different directed evolution approaches, which together provide experimental benchmarks for computational and machine learning workflows. The most-fit TrpB variants contain a substitution that is nearly absent in natural TrpB sequences—a result that conservationbased predictions would not capture. Thus, although fitness prediction using evolutionary data can enrich in more-active variants, these approaches struggle to identify and differentiate among the most-active variants, even for this near-native function. Overall, this work presents a new, large-scale testing ground for model-guided enzyme engineering and suggests that efficient navigation of epistatic fitness landscapes can be improved by advances in both machine learning and physical modeling.},
 	language = {en},
-	journal = {biorXiv},
-	month = jun,
+	journal = {PNAS},
+	month = jul,
 	year = {2024},
 	author = {Johnston, Kadina E and Almhjell, Patrick J and Watkins-Dulaney, Ella J and Liu, Grace and Yang, Jason and Porter, Nicholas J and Arnold, Frances H},
-	html = {https://www.biorxiv.org/content/10.1101/2024.06.23.600144v1},
+	html = {https://www.pnas.org/doi/10.1073/pnas.2400439121},
 	preview = {trpB.png},
 	keywords = {notion},
 	file = {Johnston et al. - A combinatorially complete epistatic fitness lands.pdf:/Users/jason/Zotero/storage/SZKAUH9J/Johnston et al. - A combinatorially complete epistatic fitness lands.pdf:application/pdf},
@@ -74,7 +93,6 @@
 	html={https://pubs.acs.org/doi/10.1021/acssynbio.3c00301},
 	preview={decoil.png},
 	code={https://github.com/jsunn-y/DeCOIL},
-	selected={true}
 }
 
 @article{yang_machine_2022,
