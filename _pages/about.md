@@ -19,4 +19,4 @@ I'm a 4th-year chemical engineering PhD candidate at Caltech, coadvised by [Prof
 
 I completed my BS in chemical engineering and applied math at Yale University. During my undergrad, I worked on membranes for water treatment with [Professor Menachem Elimelech](https://elimelechlab.yale.edu), and molecular simulation and machine learning of polymers with [Professor Ying Li](https://pdelab.engr.wisc.edu). In the past, I have also interned at [Genentech](https://www.gene.com) and [NREL](https://www.nrel.gov).
 
-Outside of research, I enjoy [electronic music](https://open.spotify.com/playlist/4RPKYnhJRLfIiuhpknQyNw?si=7f38795ed03c4194), exploring new places and foods, and learning about history and philosophy. I also enjoy teaching and mentoring.
+Outside of research, I enjoy [electronic music](https://open.spotify.com/playlist/4RPKYnhJRLfIiuhpknQyNw?si=7f38795ed03c4194), exploring new places and foods, and learning about history and philosophy. I also enjoy teaching, mentoring, and collaboration. Please reach out!
