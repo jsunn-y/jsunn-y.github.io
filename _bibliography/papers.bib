@@ -1,25 +1,5 @@
 ---
 ---
-
-
-@article{yang_conditional_2024,
-	title = {Conditional {Enzyme} {Generation} {Using} {Protein} {Language} {Models} with {Adapters}},
-	url = {http://arxiv.org/abs/2410.03634},
-	abstract = {The conditional generation of proteins with desired functions and/or properties is a key goal for generative models. Existing methods based on prompting of language models can generate proteins conditioned on a target functionality, such as a desired enzyme family. However, these methods are limited to simple, tokenized conditioning and have not been shown to generalize to unseen functions. In this study, we propose ProCALM (Protein Conditionally Adapted Language Model), an approach for the conditional generation of proteins using adapters to protein language models. Our specific implementation of ProCALM involves finetuning ProGen2 to incorporate conditioning representations of enzyme function and taxonomy. ProCALM matches existing methods at conditionally generating sequences from target enzyme families. Impressively, it can also generate within the joint distribution of enzymatic function and taxonomy, and it can generalize to rare and unseen enzyme families and taxonomies. Overall, ProCALM is a flexible and computationally efficient approach, and we expect that it can be extended to a wide range of generative language models.},
-	language = {en},
-	urldate = {2024-10-07},
-	journal = {arXiv},
-	author = {Yang, Jason and Bhatnagar, Aadyot and Ruffolo, Jeffrey A. and Madani, Ali},
-	month = oct,
-	year = {2024},
-	keywords = {notion},
-	selected={true},
-	html={https://arxiv.org/abs/2410.03634},
-	code={https://github.com/jsunn-y/ProCALM},
-	preview={procalm.png},
-	file = {Yang et al. - 2024 - Conditional Enzyme Generation Using Protein Langua.pdf:/Users/jason/Zotero/storage/C6UUSCRZ/Yang et al. - 2024 - Conditional Enzyme Generation Using Protein Langua.pdf:application/pdf},
-}
-
 @article{yang_active_2024,
 	title = {Active {Learning}-{Assisted} {Directed} {Evolution}},
 	copyright = {http://creativecommons.org/licenses/by-nc-nd/4.0/},
@@ -36,20 +16,6 @@
 	preview={alde.png},
 	selected={true},
 	code={https://github.com/jsunn-y/ALDE},
-}
-
-@article{johnston_combinatorially_nodate,
-	title = {A combinatorially complete epistatic fitness landscape in an enzyme active site},
-	abstract = {Protein engineering often targets binding pockets or active sites which are enriched in epistasis—non-additive interactions between amino acid substitutions—and where the combined effects of multiple single substitutions are difficult to predict. Few existing sequence-fitness datasets capture epistasis at large scale, especially for enzyme catalysis, limiting the development and assessment of model-guided enzyme engineering approaches. We present here a combinatorially complete, 160,000-variant fitness landscape across four residues in the active site of an enzyme. Assaying the native reaction of a thermostable β-subunit of tryptophan synthase (TrpB) in a non-native environment yielded a landscape characterized by significant epistasis and many local optima. These effects prevent simulated directed evolution approaches from efficiently reaching the global optimum. There is nonetheless wide variability in the effectiveness of different directed evolution approaches, which together provide experimental benchmarks for computational and machine learning workflows. The most-fit TrpB variants contain a substitution that is nearly absent in natural TrpB sequences—a result that conservationbased predictions would not capture. Thus, although fitness prediction using evolutionary data can enrich in more-active variants, these approaches struggle to identify and differentiate among the most-active variants, even for this near-native function. Overall, this work presents a new, large-scale testing ground for model-guided enzyme engineering and suggests that efficient navigation of epistatic fitness landscapes can be improved by advances in both machine learning and physical modeling.},
-	language = {en},
-	journal = {PNAS},
-	month = jul,
-	year = {2024},
-	author = {Johnston, Kadina E and Almhjell, Patrick J and Watkins-Dulaney, Ella J and Liu, Grace and Yang, Jason and Porter, Nicholas J and Arnold, Frances H},
-	html = {https://www.pnas.org/doi/10.1073/pnas.2400439121},
-	preview = {trpB.png},
-	keywords = {notion},
-	file = {Johnston et al. - A combinatorially complete epistatic fitness lands.pdf:/Users/jason/Zotero/storage/SZKAUH9J/Johnston et al. - A combinatorially complete epistatic fitness lands.pdf:application/pdf},
 }
 
 @article{yang_care_2024,
@@ -69,6 +35,38 @@
 	preview={creep.png},
 	selected={true},
 	code={https://github.com/jsunn-y/CARE},
+}
+
+@article{yang_conditional_2024,
+	title = {Conditional {Enzyme} {Generation} {Using} {Protein} {Language} {Models} with {Adapters}},
+	url = {http://arxiv.org/abs/2410.03634},
+	abstract = {The conditional generation of proteins with desired functions and/or properties is a key goal for generative models. Existing methods based on prompting of language models can generate proteins conditioned on a target functionality, such as a desired enzyme family. However, these methods are limited to simple, tokenized conditioning and have not been shown to generalize to unseen functions. In this study, we propose ProCALM (Protein Conditionally Adapted Language Model), an approach for the conditional generation of proteins using adapters to protein language models. Our specific implementation of ProCALM involves finetuning ProGen2 to incorporate conditioning representations of enzyme function and taxonomy. ProCALM matches existing methods at conditionally generating sequences from target enzyme families. Impressively, it can also generate within the joint distribution of enzymatic function and taxonomy, and it can generalize to rare and unseen enzyme families and taxonomies. Overall, ProCALM is a flexible and computationally efficient approach, and we expect that it can be extended to a wide range of generative language models.},
+	language = {en},
+	urldate = {2024-10-07},
+	journal = {arXiv},
+	author = {Yang, Jason and Bhatnagar, Aadyot and Ruffolo, Jeffrey A. and Madani, Ali},
+	month = oct,
+	year = {2024},
+	keywords = {notion},
+	selected={true},
+	html={https://arxiv.org/abs/2410.03634},
+	code={https://github.com/jsunn-y/ProCALM},
+	preview={procalm.png},
+	file = {Yang et al. - 2024 - Conditional Enzyme Generation Using Protein Langua.pdf:/Users/jason/Zotero/storage/C6UUSCRZ/Yang et al. - 2024 - Conditional Enzyme Generation Using Protein Langua.pdf:application/pdf},
+}
+
+@article{johnston_combinatorially_nodate,
+	title = {A combinatorially complete epistatic fitness landscape in an enzyme active site},
+	abstract = {Protein engineering often targets binding pockets or active sites which are enriched in epistasis—non-additive interactions between amino acid substitutions—and where the combined effects of multiple single substitutions are difficult to predict. Few existing sequence-fitness datasets capture epistasis at large scale, especially for enzyme catalysis, limiting the development and assessment of model-guided enzyme engineering approaches. We present here a combinatorially complete, 160,000-variant fitness landscape across four residues in the active site of an enzyme. Assaying the native reaction of a thermostable β-subunit of tryptophan synthase (TrpB) in a non-native environment yielded a landscape characterized by significant epistasis and many local optima. These effects prevent simulated directed evolution approaches from efficiently reaching the global optimum. There is nonetheless wide variability in the effectiveness of different directed evolution approaches, which together provide experimental benchmarks for computational and machine learning workflows. The most-fit TrpB variants contain a substitution that is nearly absent in natural TrpB sequences—a result that conservationbased predictions would not capture. Thus, although fitness prediction using evolutionary data can enrich in more-active variants, these approaches struggle to identify and differentiate among the most-active variants, even for this near-native function. Overall, this work presents a new, large-scale testing ground for model-guided enzyme engineering and suggests that efficient navigation of epistatic fitness landscapes can be improved by advances in both machine learning and physical modeling.},
+	language = {en},
+	journal = {PNAS},
+	month = jul,
+	year = {2024},
+	author = {Johnston, Kadina E and Almhjell, Patrick J and Watkins-Dulaney, Ella J and Liu, Grace and Yang, Jason and Porter, Nicholas J and Arnold, Frances H},
+	html = {https://www.pnas.org/doi/10.1073/pnas.2400439121},
+	preview = {trpB.png},
+	keywords = {notion},
+	file = {Johnston et al. - A combinatorially complete epistatic fitness lands.pdf:/Users/jason/Zotero/storage/SZKAUH9J/Johnston et al. - A combinatorially complete epistatic fitness lands.pdf:application/pdf},
 }
 
 @article{yang_opportunities_2024,
