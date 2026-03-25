@@ -1,3 +1,6 @@
+# If it doesn't automatically deploy
+After push --> actions --> `Deploy site` --> `run workflow`
+
 # al-folio
 
 <div align="center">
