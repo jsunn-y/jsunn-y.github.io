@@ -1,7 +1,7 @@
 ---
 layout: page
-title: lab
-permalink: /lab/
+title: research
+permalink: /research/
 description: Research directions in our lab
 nav: true
 nav_order: 2
@@ -13,12 +13,6 @@ Our research sits at the intersection of machine learning, protein engineering, 
 - data foundations: how to collect and utilize relevant empirical data and physics-based models?
 - modeling: how to develop efficient AI methods for multi-modal tasks?
 - application: how to bridge computational methods with real-world experimental constraints?
-
-## Join Us!
-If you are interested in collaborating or joining the group, please get in touch.
-
-Prospective PhD students:
-Prospective postdoctoral scholars:
 
 ## Research Thrusts
 
@@ -45,3 +39,5 @@ We aim to venture beyond the existing paradigm of de novo protein design, which 
 After discovering or designing a protein with some level of desired function, proteins often need to be optimized (modified) to maximize fitness for specific objectives such as stability, activity, affinity, etc. We develop methods that are more efficient than directed evolution, through ML-assisted optimization, which involves an iterative cycle of collecting labeled data through expensive wet-lab measurements and using these data to update an ML model and suggest new sequences to further explore, known as active learning. To this end, we develop state-of-the-art ML methods that use labeled data to shift the distribution of generative models to conditionally sample sequences with higher fitness and integrate them into real-world active learning workflows.
 
 <img src="/assets/img/publication_preview/vesicle.png" alt="Lab research image" style="width: 100%; max-width: 800px; display: block; margin: 1.5rem auto; border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);" />
+
+If you are interested in joining the group, please get in [touch](/team/).
