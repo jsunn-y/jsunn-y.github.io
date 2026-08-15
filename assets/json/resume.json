@@ -3,16 +3,16 @@
     "name": "Jason Yang",
     "label": "Graduate Student Researcher",
     "image": "",
-    "email": "jyang4@caltech.edu",
+    "email": "jyang4@mit.edu",
     "phone": "",
     "url": "https://jsunn-y.github.io/",
-    "summary": "A dedicated and highly motivated graduate research student seeking opportunities to develop new machine learning-assisted workflows for protein engineering.",
+    "summary": "Researcher working on AI for molecular engineering.",
     "location": {
       "address": "",
-      "postalCode": "CA 91106",
-      "city": "Pasdena",
+      "postalCode": "MA 02139",
+      "city": "Cambridge",
       "countryCode": "US",
-      "region": "California"
+      "region": "Massachusetts"
     },
     "profiles": [
       {
@@ -48,6 +48,10 @@
   ],
   "awards": [
     {
+      "title": "Tayebati Postdoctoral Fellowship",
+      "date": "2026"
+    },
+    {
       "title": "Google PhD Fellowship",
       "date": "2024"
     },
@@ -76,14 +80,6 @@
     {
       "title": "Science Olympiad National Medalist",
       "date": "2017"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Machine Learning",
-      "keywords": [
-        "transformers", "graph NNs", "diffusion models", "deep kernels", "contrastive learning", "self-supervision", "VAEs", "GANs", "CNNs", "RNNs"
-      ]
     }
   ],
   "languages": [
