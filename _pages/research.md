@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<p style="margin-top: 1rem;">Our ultimate vision is to create an autonomous, AI-driven ecosystem for biomolecular engineering, to address key challenges such as sustainable synthesis, therapeutics, environmental remediation, and more:</p>
+Our ultimate vision is to create an **autonomous, AI-driven ecosystem for biomolecular engineering**, to address key challenges such as sustainable synthesis, therapeutics, environmental remediation, and more:
   <ul>
     <li><a href="https://www.sciencedirect.com/science/article/pii/S2405471225002054">Illuminating the Universe of Enzyme Catalysis in the Era of Artificial Intelligence</a></li>
     <li><a href="https://pubs.acs.org/action/showCitFormats?doi=10.1021/acscentsci.3c01275&ref=pdf">Opportunities and Challenges for Machine Learning-Assisted Enzyme Engineering</a></li>
