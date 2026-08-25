@@ -2,7 +2,7 @@
 layout: page
 title: team
 permalink: /team/
-description: We are scientists who are excited by interdisciplinary work and who enjoy building computational tools for protein engineering. We welcome students and postdocs with backgrounds in chemical engineering, biological engineering, computer science, applied math, chemistry, synthetic biology, or related fields.
+description: We are scientists who are excited by interdisciplinary work and building computational tools for protein engineering. We welcome students and postdocs with backgrounds in chemical engineering, biological engineering, computer science, applied math, chemistry, synthetic biology, or related fields.
 nav: true
 nav_order: 3
 ---
@@ -25,4 +25,4 @@ We welcome applicants with strong training in **experimental protein engineering
 If this sounds like a good fit, please [email me](mailto:jyang4@mit.edu) with your CV, a few sentences on your background and future reesearch interests in the lab, and contact information for 2 references. 
 
 ### Prospective Undergraduate Students
-Undergraduate students of all backgrounds at Johns Hopkins can feel free reach out if you are interested in getting involved with research starting in fall 2027!
+Undergraduate students of all backgrounds at Johns Hopkins can feel free to reach out if you are interested in getting involved with research starting in fall 2027!
