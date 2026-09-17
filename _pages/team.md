@@ -22,7 +22,7 @@ I am primarily involved with admissions through the [ChemBE program](https://eng
 
 We welcome candidates with strong training in **experimental protein engineering/synthetic biology** and an interest in developing wet-lab enzyme engineering workflows that are integrated with machine learning methods. Candidates should have a Ph.D. in chemical engineering, biological engineering, biochemistry, chemistry, or related fields. Previous experience with machine learning, computational chemistry, and/or computational biology is helpful, but not required. 
 
-If this sounds like a good fit, please [email me](mailto:jyang4@mit.edu) with your CV, a few sentences on your background and future reesearch interests in the lab, and contact information for 2 references. 
+If this sounds like a good fit, please [email me](mailto:jyang4@mit.edu) with your CV, a few sentences on your background and future research interests in the lab, and contact information for 2 references. 
 
 ### Prospective Undergraduate Students
 Undergraduate students of all backgrounds at Johns Hopkins can feel free to reach out if you are interested in getting involved with research starting in fall 2027!
