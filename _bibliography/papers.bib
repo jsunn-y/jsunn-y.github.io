@@ -1,5 +1,34 @@
 ---
 ---
+@article{chenDesignSpaceDiscrete2026,
+	title = {On the {Design} {Space} of {Discrete} {Diffusion} {Online} {Adaptation} for {Molecular} {Optimization}},
+	html = {http://arxiv.org/abs/2607.02834},
+	doi = {10.48550/arXiv.2607.02834},
+	abstract = {Molecular optimization often starts from a pretrained generative model that captures a broad prior over valid molecular structures. At test time, however, the goal is not to sample from this prior, but to use a limited oracle budget to shift generation toward task-specific high-reward molecules. We study this adaptation problem for discrete diffusion models. Each online round couples several choices. The loop must decide which candidates to evaluate, how rewards become model updates, which feedback to reuse, and how far to move beyond the pretrained prior. These choices have mostly been studied in isolation, leaving open whether they complement one another, become redundant, or interfere inside a full online adaptation loop. We conduct controlled studies across six small-molecule binding-affinity tasks and three protein-fitness tasks. We find that acquisition, reward shaping, and model debiasing provide complementary routes to higher reward, especially for small molecules. Replay further stabilizes learning, while validity penalties keep small-molecule exploration on the valid molecular manifold. Together, these findings point to a practical recipe for feedback-efficient molecular optimization: online fine-tuning with acquisition, reward shaping, debiasing, replay, and validity control. This recipe outperforms offline fine-tuning and inference-time search baselines under matched oracle-call budgets and GPU-hour accounting. The gains are largest when high-reward candidates require larger shifts from the pretrained prior.},
+	urldate = {2026-08-16},
+	journal = {NeurIPS},
+	author = {Chen, Trevor and Dai, Ariel and Yang, Jason and Santi, Riccardo De and Khalil, Daniel and Chu, Wenda and Gruver, Nate and Murugan, Pranav and Goldberg, Alexander F. G. and Al-Shedivat, Maruan and Yue, Yisong},
+	month = dec,
+	year = {2026},
+}
+
+@article{kuoEZSolverTemplateFreePrediction2026,
+	title = {{EZSolver}:{Template}-{Free} {Prediction} of {Polar} {EnzymaticMechanisms} via {Bidirectional} {Flow} {Matching} and {Search}},
+	copyright = {https://creativecommons.org/licenses/by/4.0/},
+	issn = {0002-7863, 1520-5126},
+	shorttitle = {{EZSolver}},
+	url = {https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14064/5435030/EZSolver-Template-Free-Prediction-of-Polar},
+	doi = {10.1021/jacs.6c14064},
+	abstract = {Predicting enzymatic reaction mechanisms is critical for understanding enzyme function and for the design and discovery of new enzymes. Current computational predictors rely on deterministic, rule-based dictionaries, which perform well on in-distribution tasks but fail to generalize to out-ofdistribution (OOD) chemistry. To address this limitation, we present EZSolver for the polar enzymatic mechanism prediction. Powered by a flow-matching predictor (EZFlow), a template-free, generative framework, and navigated by an evaluatorguided bidirectional beam search, EZSolver learns the chemistry of electron redistribution instead of memorizing rigid templates. Evaluated across diverse enzyme classes, EZSolver achieves a 60.0\% accuracy and an 84.6\% chemical plausibility rate for the full-mechanism prediction of unseen polar enzymatic reactions. While rule-based models collapse without predefined templates, EZSolver successfully extrapolates chemical knowledge to infer uncatalogued pathways, as demonstrated during rigorous OOD benchmarking. By illuminating enzymatic chemical mechanisms, EZSolver helps pave the way for the automated prediction of enzyme function and the discovery and design of novel biocatalysts for sustainable chemistry.},
+	language = {en},
+	urldate = {2026-09-22},
+	journal = {Journal of the American Chemical Society},
+	author = {Kuo, Lun-Hsin and Yang, Jason and Arnold, Frances H.},
+	month = sep,
+	year = {2026},
+	html = {https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14064/5435030/EZSolver-Template-Free-Prediction-of-Polar},
+	preview={ezsolver.jpg},
+}
 
 @article{lalMachineLearningAssistedEvolution2026a,
 	title = {Machine {Learning}-{Assisted} {Evolution} of {Broadly} {Functional} {Enzyme} {Libraries}},
