@@ -16,7 +16,7 @@ We are actively recruiting motivated students and postdocs to join the lab in Se
 
 We are looking for students who are excited to work on foundational questions in AI for protein engineering. Students with experience in machine learning, molecular modeling, protein engineering, or biochemistry are especially encouraged to apply.
 
-I am primarily involved with admissions through the [ChemBE program](https://engineering.jhu.edu/chembe/academics/graduate-studies/phd-program/) at JHU. The program admits as a cohort, so please apply through there and note your interest in working with me in the application. The deadline for the Fall 2027 PhD program is **December 1, 2026**. Applicants that would fit better with other programs, such as Computational Biology and Computer Science, can feel free to [email me](mailto:jyang4@mit.edu) as well.   
+I am primarily involved with admissions through the [ChemBE program](https://engineering.jhu.edu/chembe/academics/graduate-studies/phd-program/) at JHU. The program admits as a cohort, so please apply through there and note your interest in working with me in the application. The deadline for the Fall 2027 PhD program is **December 1, 2026**. Applicants that would fit better with other programs, such as Computational Biology/Biophysics and Computer Science, can feel free to [email me](mailto:jyang4@mit.edu) as well.   
 
 ### Prospective Postdoctoral Researchers
 
